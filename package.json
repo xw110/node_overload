@@ -1,0 +1,22 @@
+{
+  "name": "overload",
+  "version": "1.0.0",
+  "description": "js函数重载",
+  "main": "overload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xw110/node_overload.git"
+  },
+  "keywords": [
+    "overload"
+  ],
+  "author": "xiaowei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xw110/node_overload/issues"
+  },
+  "homepage": "https://github.com/xw110/node_overload#readme"
+}
